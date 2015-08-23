@@ -1,4 +1,4 @@
-# Read Me file
+# Getting and Cleaning Data Course Project
 
 This is an intruction on how to execute the program:
 
