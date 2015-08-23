@@ -134,8 +134,8 @@ The following files are available for the train and test data. Their description
 2. Label all columns
 3. Combine the datasets by columns
 4. Combine the datasets by rows
-5. Find the varaible names with mean or stdPart2 
-6. Etracts only the measurements on the mean and standard deviation for each measurement
+5. Find the varaible names with mean or std
+6. Extracts only the measurements on the mean and standard deviation for each measurement
 7. Uses descriptive activity names to name the activities in the data set
       * 1 = WALKING
       * 2 = WALKING_UPSTAIRS
