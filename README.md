@@ -12,14 +12,16 @@ This is an intruction on how to execute the program:
 
 **3. Run the script run_analysis.R in you R, it should perform the following:**
 
-  * Merges the training and the test sets to create one data set.
-
-  * Extracts only the measurements on the mean and standard deviation for each measurement. 
-   
+  * Read in Files
+  * Label all columns
+  * Combine the datasets by columns
+  * Combine the datasets by rows
+  * Find the varaible names with mean or stdPart2
+  * Etracts only the measurements on the mean and standard deviation for each measurement
   * Uses descriptive activity names to name the activities in the data set
-   
-  * Appropriately labels the data set with descriptive variable names.
-   
-  * From the data set in part d, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+  * Appropriately labels the data set with descriptive variable names
+  * creates a tidy data set with the average of each variable for each activity and each subject
 
 **4. A cleaned tidy dataset can be found under your working directory called tidydata.txt**
+
+
