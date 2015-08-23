@@ -1,4 +1,4 @@
-# getting_and_cleaning_data_project
+# Read Me file
 
 This is an intruction on how to execute the program:
 
@@ -24,4 +24,5 @@ This is an intruction on how to execute the program:
 
 **4. A cleaned tidy dataset can be found under your working directory called tidydata.txt**
 
+**5. Code book is available for more details on the data
 
